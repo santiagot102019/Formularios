@@ -65,7 +65,7 @@ export default function App() {
         </label>
       </form>
       <hr />
-      Resultado Input: <span>{valorMostrar}</span>
+      <h3>Resultado Input: <span>{valorMostrar}</span></h3>
     </section>
   );
 }
